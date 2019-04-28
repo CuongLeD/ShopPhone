@@ -1,0 +1,5 @@
+c:\users\ledin\documents\visual studio 2010\Projects\ShopPhone1\ShopPhone1\bin\ShopPhone1.dll
+c:\users\ledin\documents\visual studio 2010\Projects\ShopPhone1\ShopPhone1\bin\ShopPhone1.pdb
+c:\users\ledin\documents\visual studio 2010\Projects\ShopPhone1\ShopPhone1\obj\Debug\ShopPhone1.dll
+c:\users\ledin\documents\visual studio 2010\Projects\ShopPhone1\ShopPhone1\obj\Debug\ShopPhone1.pdb
+C:\Users\ledin\Documents\Visual Studio 2010\Projects\ShopPhone1\ShopPhone1\obj\Debug\ShopPhone1.csprojResolveAssemblyReference.cache
